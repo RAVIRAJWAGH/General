@@ -1,0 +1,7 @@
+FOR PYTHON VERSION CHECK:
+import sys
+sys.version
+
+FOR LIBRARIS VERSION CHECK:
+import sklearn
+sklearn.__version__
